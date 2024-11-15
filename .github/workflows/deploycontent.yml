@@ -11,19 +11,36 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
-jobs:          
+jobs:
+
+  webpify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      
+      - name: Install dependencies
+        run: npm i
+      
+      - name: Run webpify
+        run: node webpify.js
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./content
 
   deploy:
     environment:
       name: github-pages
     runs-on: ubuntu-latest
+    needs: webpify
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./content
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
