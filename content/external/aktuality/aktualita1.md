@@ -1,5 +1,5 @@
 <!-- title: "Nový web Farnosti Sverepec je spustený!" -->
-<!-- date: "2024-09-22" -->
+<!-- date: "2024-11-24" -->
 <!-- gallery: "Nový Web Farnosti" -->
 
 S radosťou vám oznamujeme, že **Farnosť Sverepec** má nový, moderný web, ktorý je odteraz dostupný pre všetkých veriacich a záujemcov o život našej farnosti.
