@@ -1,6 +1,7 @@
 <!-- title: "Informácie o omšiach - 20. - 27. október" -->
 <!-- date: "2024-10-20" -->
 
+<!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
 | **Pondelok, 21. október** | **17:30**\nZa duše v očistci | **Pondelok 29. týždňa v Cezročnom období** |

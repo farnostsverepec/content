@@ -1,6 +1,7 @@
 <!-- title: "Informácie o omšiach - 27. - 03. november" -->
 <!-- date: "2024-10-27" -->
 
+<!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
 | **Pondelok, 28. október** | **17:30**\n+ Jarmila a Ivan | **Sv. Šimona a Júdu, apoštolov, sviatok** |

@@ -1,6 +1,7 @@
 <!-- title: "Informácie o omšiach - 13. - 20. október" -->
 <!-- date: "2024-10-13" -->
 
+<!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
 | **Pondelok, 14. október** | **-** | **Pondelok 28. týždňa v Cezročnom období** |

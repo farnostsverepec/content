@@ -1,6 +1,7 @@
 <!-- title: "Informácie o omšiach - 10. - 17. november" -->
 <!-- date: "2024-11-10" -->
 
+<!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
 | **Pondelok, 11. november** | **-** | **Sv. Martina z Tours, biskupa, spomienka** |

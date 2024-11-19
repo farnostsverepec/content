@@ -1,6 +1,7 @@
 <!-- title: "Informácie o omšiach - 17. - 24. november" -->
 <!-- date: "2024-11-17" -->
 
+<!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
 | **Pondelok, 18. november** | **-** | **Pondelok 33. týždňa v Cezročnom období** |

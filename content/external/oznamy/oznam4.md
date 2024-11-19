@@ -1,6 +1,7 @@
 <!-- title: "Informácie o omšiach - 03. - 10. november" -->
 <!-- date: "2024-11-03" -->
 
+<!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
 | **Pondelok, 4. november** | **-** | **Sv. Karola Boromejského, biskupa, spomienka** |
