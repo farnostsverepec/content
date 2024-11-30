@@ -4,12 +4,12 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 4. november** | **-** | **Sv. Karola Boromejského, biskupa, spomienka** |
-| **Utorok, 5. november** | **17:30**\n+ kňazi Žilinskej diecézy | **Utorok 31. týždňa v Cezročnom období** |
-| **Streda, 6. november** | **17:30**\n+ Ľudovít, kňaz | **Streda 31. týždňa v Cezročnom období** |
-| **Štvrtok, 7. november** | **7:30**\nInt. ord. | **Štvrtok 31. týždňa v Cezročnom období\nOmšový formulár: Za povolania na kňazský stav** |
-| **Piatok, 8. november** | **17:30**\nZa Božiu pomoc a dary Ducha Svätého pre rodinu i do práce | **Piatok 31. týždňa v Cezročnom období** |
-| **Sobota, 9. november** | **7:30**\nZa zdravie, Božiu pomoc a požehnanie pre deti, vnukov  a krstné deti | **Výročie posviacky Lateránskej baziliky v Ríme, sviatok** |
+| **Pondelok, 04. november** | **-** | **Sv. Karola Boromejského, biskupa, spomienka** |
+| **Utorok, 05. november** | **17:30**\n+ kňazi Žilinskej diecézy | **Utorok 31. týždňa v Cezročnom období** |
+| **Streda, 06. november** | **17:30**\n+ Ľudovít, kňaz | **Streda 31. týždňa v Cezročnom období** |
+| **Štvrtok, 07. november** | **7:30**\nInt. ord. | **Štvrtok 31. týždňa v Cezročnom období\nOmšový formulár: Za povolania na kňazský stav** |
+| **Piatok, 08. november** | **17:30**\nZa Božiu pomoc a dary Ducha Svätého pre rodinu i do práce | **Piatok 31. týždňa v Cezročnom období** |
+| **Sobota, 09. november** | **7:30**\nZa zdravie, Božiu pomoc a požehnanie pre deti, vnukov  a krstné deti | **Výročie posviacky Lateránskej baziliky v Ríme, sviatok** |
 | **Nedeľa, 10. november** | **7:00**\nPoďakovanie za 85 rokov života a prosba o ďalšie Božie požehnanie\n\n**9:00**\n+ rod. Birošíková, Rosíková, Kubišová | **TRIDSIATA DRUHÁ NEDEĽA V CEZROČNOM OBDOBÍ** |
 
 Počas tohto týždňa až do piatku 8. novembra môžeme ešte získavať odpustky pre našich zosnulých. Potrebný skutok je nábožne navštíviť cintorín a pomodliť sa za zosnulých. Okrem toho treba byť v stave posväcujúcej milosti (vyspovedaní), prijať v ten deň sväté prijímanie a pomodliť sa na úmysel Svätého Otca. Preto vás povzbudzujem, aby sme aj v tomto týždni prichádzali v  hojnejšom počte na sväté omše.
