@@ -1,14 +1,15 @@
-<!-- title: "<!-- title: "Nový web Farnosti Sverepec je spustený!" -->
-<!-- date: "2024-12-15" -->
-<!-- gallery: "" -->
+<!-- title: "Spovedanie – dekanát Považská Bystrica – Vianoce 2024" -->
+<!-- date: "2024-12-20" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Miesto | Čas | Spovedajú |
 | :---: | :---: | :---: | :---: |
-| **Nedeľa, 15. december** | Slopná\nPodskalie\nHorný Moštenec | **Pondelok po 3. adventnej nedeli** |
-| **Utorok, 17. december** | **17:30**\nZa Božiu pomoc pri operácii | **Utorok po 3. adventnej nedeli** |
-| **Streda, 18. december** | **7:30**\n+ Ján Tomko | **Streda po 3. adventnej nedeli** |
-| **Štvrtok, 19. december** | **-** | **Štvrtok po 3. adventnej nedeli** |
-| **Piatok, 20. december** | **17:30**\n+ Ivan, Alojz, Anna | **Piatok po 3. adventnej nedeli** |
-| **Sobota, 21. december** | **6:00**\nZa farnosť | **Sobota po 3. adventnej nedeli** |
-| **Nedeľa, 22. december** | **7:00**\n+ Ľudmila a Miroslav\n\n**9:00**\n+ Ján | **ŠTVRTÁ ADVENTNÁ NEDEĽA** |
+| **Nedeľa, 15. december**\n3. adventná | Slopná\n\nPodskalie\n\nHorný Moštenec\n\nDolný Moštenec | 14:30 - 15:30\n\n14:00 - 16:00\n\n14:00 - 15:30\n\n14:00 - 15:30 | Tichý Gabriš Škrabák Klimek Hruška Hvolka\n\nMajtán Bunčiak\n\nMichút Matúška Franek Vavro\n\nWieslaw Andrzej Matej Junas |
+| **Pondelok, 16. december**\npo 3. adv. | Dolná Mariková\n\nHorná Mariková | 15:00-17:00\n\n16:00-17:00 | Mazúch Tichý Gabriš Buchtinec Turza Majtán Mičúch Matúška, Hvolka\n\nFranek Michút Kováč |
+| **Utorok, 17. december**\npo 3. adv. | Jasenica\n\nStupné\n\nPodvažie\n\nUdiča | 15:00-16:30\n\n15:00-16:30\n\n15:00-16:30\n\n17:00-18:00 | Junas Michút Matúška Mičúch Majtán Hvolka Herman\n\nWieslaw Andrzej Matej\n\nBunčiak Králik Gabriš Klimek\n\nVavro Kováč Buchtinec Hruška Mazúch Tichý Turza |
+| **Streda, 18. december**\npo 3. adv. | Papradno\n\nBrvnište\n\nPovažská Teplá\n\nZáskalie | 16:00-17:30\n\n16:00-17:30\n\n16:00-17:30\n\n14:30-16:00 | Michút Buchtinec Hvolka Majtán Matúška Škrabák Turza Vavro Mičúch\n\nKováč Franek Bunčiak Králik\n\nMazúch Tichý Gabriš Junas Wieslaw\n\nMatej Andrzej |
+| **Štvrtok, 19. december**\npo 3. adv. | Prečín\n\nBodiná\n\nDomanižá\n\nMalé Lednice\n\nČelkova Lehota | 15:00-16:30\n\n15:00-16:30\n\n10:00-12:00 + 15:00-17:00\n\n10:00-12:00 + 15:00-17:00\n\n10:00-12:00 + 15:00-17:00 | Mazúch Tichý Gabriš Matej Škrabák Hvolka\n\nWieslaw Andrzej\n\n10-12 Franek Vavro Kováč + 15-17 Mičúch Klimek Králik\n\n10-12 Turza Hruška + 15-17 Buchtinec Michút\n\nBunčiak |
+| **Piatok, 20. december**\npo 3. adv. | Považská Bystrica\n\nRozkvet\n\nSNP – sv. Rodiny | 9:00-12:00 + 14:30-17:00\n\n9:00-12:00 + 14:30-17:00\n\n9:00-12:00 + 14:30-17:00 | Buchtinec Tichý Gabriš Mazúch Škrabák Turza Vavro\n\nFranek Králik Majtán Kováč Klimek Hruška Mičúch\n\nBunčiak\n\nMatúška Andrzej Matej Wieslaw\n\nHvolka Michút Junas |
+| **Sobota, 21. december**\npo 3. adv. | Považská Bystrica\n\nRozkvet\n\nSNP – Sv. Rodiny\n\nPov. Podhradie\n\nOrlové /Šebešť/\n\nMilochov\n\nPodmanín\n\nPražnov | 9:00-12:00\n\n9:00-12:00\n\n9:00-12:00\n\n14:00-15:00\n\n14:00-15:00\n\n14:00-15:00\n\n14:00-15:00\n\n14:00-15:00 | Buchtinec Tichý Gabriš Škrabák Mazúch Turza Vavro Franek Králik Majtán Kováč Klimek Hruška Mičúch Bunčiak\n\nMatúška Andrzej Matej Wieslaw\n\nHvolka Michút Junas\n\nWieslaw Andrzej Matej Hruška Klimek Michút Hvolka\n\nKováč Matúška\n\nFranek Bunčiak\n\nTichý Gabriš Králik\n\nMajtán Junas Škrabák |
+| **Nedeľa, 22. december**\n4. adv. | Prušina\n\nDundové\n\nSverepeč | 14:30-16:00\n\n14:30-15:30\n\n13:00-14:30 | Mazúch Tichý Gabriš Wieslaw Matej Andrzej Michút Vavro Majtán Junas Hvolka\n\nHruška Králik Mičúch Klimek\n\nKováč Franek Škrabák Buchtinec Turza |
+| **Pondelok, 23. december**\npo 4. adv. | POVAŽSKÁ BYSTRICA | 17:00- 18:00 | Mazúch Tichý Gabriš Mičúch Králik Vavro Kováč Turza Andrzej Klimek Buchtinec Matúška |
