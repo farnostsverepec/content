@@ -4,7 +4,7 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 23. december** | **-**\nZa zdravie a Božie požehnanie pre brata | **Pondelok po 4. adventnej nedeli** |
+| **Pondelok, 23. december** | **-** | **Pondelok po 4. adventnej nedeli** |
 | **Utorok, 24. december** | **-**\nZa Božiu pomoc pri operácii | **Utorok po 4. adventnej nedeli** |
 | **Streda, 25. december** | **0:00**\nZa farnosť\n\n**7:00**\nZa dobrodincov farnosti\n\n**9:00**\n+ Stanislav Ďurovec | **NARODENIE PÁNA, SLÁVNOSŤ** |
 | **Štvrtok, 26. december** | **7:00**\n+ štefan Biel\n\n**9:00**\n+ Ján Hoždora | **Sv. Štefana, prvého mučeníka, sviatok** |
