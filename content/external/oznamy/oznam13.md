@@ -1,5 +1,6 @@
 <!-- title: "Informácie o omšiach - 05. - 12. január" -->
 <!-- date: "2024-01-05" -->
+<!-- gallery: "Koledovanie Dobrej Noviny" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
