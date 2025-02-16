@@ -22,6 +22,7 @@ mladých na púť do Ríma. Uskutoční sa v dňoch 27. júla - 5. augusta 2025.
 Zúčastniť sa môžu mladí vo veku od 16 - 35 rokov. Prihlasovanie je možné do
 1. marca. Potrebné informácie nájdete na stránke www.svetovednimladeze.sk
 alebo instagrame ZA_mladych.
+
 Aj v tomto mesiaci vám ponúkame katechézu pre manželov. Je zameraná na
 život v nádeji. Nájdete v nej tipy pre manželov na podporu nádeje a tiež ponuku
 manželských programov na mesiac marec, súťaž o víkendový pobyt pre celú
