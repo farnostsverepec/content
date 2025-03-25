@@ -1,5 +1,5 @@
 <!-- title: "Informácie o omšiach - 23. - 30. marec" -->
-<!-- date: "2024-03-23" -->
+<!-- date: "2025-03-23" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |

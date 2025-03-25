@@ -1,5 +1,5 @@
 <!-- title: "Informácie o omšiach - 12. - 19. január" -->
-<!-- date: "2024-01-12" -->
+<!-- date: "2025-01-12" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |

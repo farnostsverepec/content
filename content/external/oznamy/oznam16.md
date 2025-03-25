@@ -1,5 +1,5 @@
 <!-- title: "Informácie o omšiach - 26. - 02. február" -->
-<!-- date: "2024-01-26" -->
+<!-- date: "2025-01-26" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |

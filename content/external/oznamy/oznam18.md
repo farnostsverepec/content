@@ -1,5 +1,5 @@
 <!-- title: "Informácie o omšiach - 09. - 16. február" -->
-<!-- date: "2024-02-09" -->
+<!-- date: "2025-02-09" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
