@@ -1,0 +1,15 @@
+<!-- title: "Spovedanie – dekanát Považská Bystrica – Veľká noc 2025" -->
+<!-- date: "2025-04-06" -->
+
+<!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
+| Deň | Miesto | Čas | Spovedajú |
+| :---: | :---: | :---: | :---: |
+| **Nedeľa, 6. apríl**\n5. pôst. ned. | Slopná\n\nPodskalie\n\nHorný Moštenec\n\nDolný Moštenec | 14:30 - 15:30\n\n14:00 - 16:00\n\n14:00 - 15:30\n\n14:00 - 15:30 | Tichý Gabriš Škrabák Klimek Hruška Hvolka\n\nMajtán Bunčiak\n\nMichút Matúška Franek Vavro\n\nWieslaw Andrzej Matej Junas |
+| **Pondelok, 7. apríl**\npo 5. pôst. | Dolná Mariková\n\nHorná Mariková | 15:00-17:00\n\n16:00-17:00 | Mazúch Tichý Gabriš Buchtinec Turza Majtán Mičúch Matúška, Hvolka\n\nFranek Michút Kováč |
+| **Utorok, 8. apríl**\npo 5. pôst. | Jasenica\n\nStupné\n\nPodvažie\n\nUdiča | 15:00-16:30\n\n15:00-16:30\n\n15:00-16:30\n\n17:00-18:00 | Junas Michút Matúška Mičúch Majtán Hvolka Herman\n\nWieslaw Andrzej Matej\n\nBunčiak Králik Gabriš Klimek\n\nVavro Kováč Buchtinec Hruška Mazúch Tichý Turza |
+| **Streda, 9. apríl**\npo 5. pôst. | Papradno\n\nBrvnište\n\nPovažská Teplá\n\nZáskalie | 16:00-17:30\n\n16:00-17:30\n\n16:00-17:30\n\n14:30-16:00 | Michút Buchtinec Hvolka Majtán Matúška Škrabák Turza Vavro Mičúch\n\nKováč Franek Bunčiak Králik\n\nMazúch Tichý Gabriš Junas Wieslaw\n\nMatej Andrzej |
+| **Štvrtok, 10. apríl**\npo 5. pôst. | Prečín\n\nBodiná\n\nDomaníža\n\nMalé Lednice\n\nČelkova Lehota | 15:00-16:30\n\n15:00-16:30\n\n10:00-12:00 + 15:00-17:00\n\n10:00-12:00 + 15:00-17:00\n\n10:00-12:00 + 15:00-17:00 | Mazúch Tichý Gabriš Matej Škrabák Hvolka\n\nWieslaw Andrzej\n\n10-12 Franek Vavro Kováč + 15-17 Mičúch Klimek Králik\n\n10-12 Turza Hruška + 15-17 Buchtinec Michút\n\nBunčiak |
+| **Piatok, 11. apríl**\npo 5. pôst. | Považská Bystrica\n\nRozkvet\n\nSNP – sv. Rodiny | 9:00-12:00 + 14:30-17:00\n\n9:00-12:00 + 14:30-17:00\n\n9:00-12:00 + 14:30-17:00 | Buchtinec Tichý Gabriš Mazúch Škrabák Turza Vavro\n\nFranek Králik Majtán Kováč Klimek Hruška Mičúch\n\nBunčiak\n\nMatúška Andrzej Matej Wieslaw\n\nHvolka Michút Junas |
+| **Sobota, 12. apríl**\npo 5. pôst. | Považská Bystrica\n\nRozkvet\n\nSNP – Sv. Rodiny\n\nPov. Podhradie\n\nOrlové /Šebešť/\n\nMilochov\n\nPodmanín\n\nPraznov | 9:00-12:00\n\n9:00-12:00\n\n9:00-12:00\n\n14:00-15:00\n\n14:00-15:00\n\n14:00-15:00\n\n14:00-15:00\n\n14:00-15:00 | Buchtinec Tichý Gabriš Škrabák Mazúch Turza Vavro Franek Králik Majtán Kováč Klimek Hruška Mičúch Bunčiak\n\nMatúška Andrzej Matej Wieslaw\n\nHvolka Michút Junas\n\nWieslaw Andrzej Matej Hruška Klimek Michút Hvolka\n\nKováč Matúška\n\nFranek Bunčiak\n\nTichý Gabriš Králik\n\nMajtán Junas Škrabák |
+| **Nedeľa, 13. apríl**\nKvetná ned.| Pružina\n\nDurďové\n\nSverepec | 14:30-16:00\n\n14:30-15:30\n\n13:00-14:30 | Mazúch Tichý Gabriš Wieslaw Matej Andrzej Michút Vavro Majtán Junas Hvolka\n\nHruška Králik Mičúch Klimek\n\nKováč Franek Škrabák Buchtinec Turza |
+| **Utorok, 15. apríl**\npo Kvet. ned. | POVAŽSKÁ BYSTRICA | 17:00- 18:00 | Mazúch Tichý Gabriš Mičúch Králik Vavro Kováč Turza Andrzej Klimek Buchtinec Matúška |
