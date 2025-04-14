@@ -5,12 +5,12 @@
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
 | **Pondelok, 31. marec** | **-** | **Pondelok po 4. pôstnej nedeli** |
-| **Utorok, 1. marec** | **18:30**\n+ Ján Sedlák a Pavol Kluka | **Utorok po 4. pôstnej nedeli** |
-| **Streda, 2. marec** | **18:30**\nZa Božiu pomoc pre manželov | **Streda po 4. pôstnej nedeli** |
-| **Štvrtok, 3. marec** | **7:30**\nZa farnosť (23. 03. 2025) | **Štvrtok po 4. pôstnej nedeli** |
-| **Piatok, 4. marec** | **18:30**\n+ Anna a Pavol Blaho,\nAnna a Ján Sedlák | **Piatok po 4. pôstnej nedeli** |
-| **Sobota, 5. marec** | **9:00**\nInt. ord. (6.) | **Sobota po 4. pôstnej nedeli** |
-| **Nedeľa, 6. marec** | **7:00**\n+ Mária, Miroslav, Dalibor a starí\nrodičia\n\n**9:00**\n+ Jaroslav | **PIATA PÔSTNA NEDEĽA** |
+| **Utorok, 1. apríl** | **18:30**\n+ Ján Sedlák a Pavol Kluka | **Utorok po 4. pôstnej nedeli** |
+| **Streda, 2. apríl** | **18:30**\nZa Božiu pomoc pre manželov | **Streda po 4. pôstnej nedeli** |
+| **Štvrtok, 3. apríl** | **7:30**\nZa farnosť (23. 03. 2025) | **Štvrtok po 4. pôstnej nedeli** |
+| **Piatok, 4. apríl** | **18:30**\n+ Anna a Pavol Blaho,\nAnna a Ján Sedlák | **Piatok po 4. pôstnej nedeli** |
+| **Sobota, 5. apríl** | **9:00**\nInt. ord. (6.) | **Sobota po 4. pôstnej nedeli** |
+| **Nedeľa, 6. apríl** | **7:00**\n+ Mária, Miroslav, Dalibor a starí\nrodičia\n\n**9:00**\n+ Jaroslav | **PIATA PÔSTNA NEDEĽA** |
 
 
 Dnes popoludní o 14.00 hod. vás všetkých pozývame na pobožnosť krížovej cesty. Po jej ukončení sa pomodlíme aj Korunku Božieho milosrdenstva. Okrem dneška bude pobožnosť krížovej cesty aj v piatok o 17.45 hod.

@@ -1,16 +1,16 @@
 <!-- title: "Informácie o omšiach - 06. - 13. apríl" -->
-<!-- date: "2025-03-06" -->
+<!-- date: "2025-04-06" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 7. marec** | **7:30**\nZa farnosť (30. 03. 2025) | **Pondelok po 5. pôstnej nedeli** |
-| **Utorok, 8. marec** | **18:30**\n+ Silvia Gendiarová (401) | **Utorok po 5. pôstnej nedeli** |
-| **Streda, 9. marec** | **7:30**\n+ Jozefína Kyjacová (402) | **Streda po 5. pôstnej nedeli** |
-| **Štvrtok, 10. marec** | **-** | **Štvrtok po 5. pôstnej nedeli** |
-| **Piatok, 11. marec** | **18:30**\nZa zdravie, Božiu ochranu a pomoc pre Lenku a synov | **Piatok po 5. pôstnej nedeli** |
-| **Sobota, 12. marec** | **7:30**\nInt. ord. (7.) | **Sobota po 5. pôstnej nedeli** |
-| **Nedeľa, 13. marec** | **7:00**\n+ Helena Šulyová\n\n**9:00**\n+ Štefan, Štefánia, Miroslav | **PALMOVÁ (KVETNÁ) NEDEĽA čiže\nNEDEĽA UTRPENIA PÁNA** |
+| **Pondelok, 7. apríl** | **7:30**\nZa farnosť (30. 03. 2025) | **Pondelok po 5. pôstnej nedeli** |
+| **Utorok, 8. apríl** | **18:30**\n+ Silvia Gendiarová (401) | **Utorok po 5. pôstnej nedeli** |
+| **Streda, 9. apríl** | **7:30**\n+ Jozefína Kyjacová (402) | **Streda po 5. pôstnej nedeli** |
+| **Štvrtok, 10. apríl** | **-** | **Štvrtok po 5. pôstnej nedeli** |
+| **Piatok, 11. apríl** | **18:30**\nZa zdravie, Božiu ochranu a pomoc pre Lenku a synov | **Piatok po 5. pôstnej nedeli** |
+| **Sobota, 12. apríl** | **7:30**\nInt. ord. (7.) | **Sobota po 5. pôstnej nedeli** |
+| **Nedeľa, 13. apríl** | **7:00**\n+ Helena Šulyová\n\n**9:00**\n+ Štefan, Štefánia, Miroslav | **PALMOVÁ (KVETNÁ) NEDEĽA čiže\nNEDEĽA UTRPENIA PÁNA** |
 
 
 Po svätých omšiach sa dnes koná zbierka na pomoc prenasledovaným kresťanom a utečencom. Svojimi milodarmi prinesieme nádej a pomoc prenasledovaným kresťanom v Sýrii, Libanone a v Iraku. Už vopred vám vyslovujem úprimné Pán Boh zaplať za vaše milodary.  
