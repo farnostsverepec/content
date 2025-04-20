@@ -1,5 +1,5 @@
 <!-- title: "Informácie o omšiach - 13. - 20. apríl" -->
-<!-- date: "2025-03-06" -->
+<!-- date: "2025-04-13" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
