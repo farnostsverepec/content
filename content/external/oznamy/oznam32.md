@@ -9,7 +9,7 @@
 | **Streda, 21. máj** | **18:30**\n+ pápež František | **Streda po 5. veľkonočnej nedeli** |
 | **Štvrtok, 22. máj** | **7:30**\nZa farnosť (13. 04. 2025) | **Štvrtok po 5. veľkonočnej nedeli** |
 | **Piatok, 23. máj** | **18:30**\nZa zdravie a Božie požehnanie pre\nHelenu | **Piatok po 5. veľkonočnej nedeli** |
-| **Sobota, 24. máj** | **7:30**\nInt. ord. (9.) | **Sobota po 5. veľkonočnej nedeli** |
+| **Sobota, 24. máj** | **7:00**\nInt. ord. (9.) | **Sobota po 5. veľkonočnej nedeli** |
 | **Nedeľa, 25. máj** | **7:00**\n+ Anton, Viktor, Antónia\n\n**9:00**\n+ Pavol, Irena, Pavol, Marta, Ľubica | **ŠIESTA VEĽKONOČNÁ NEDEĽA** |
 
 
