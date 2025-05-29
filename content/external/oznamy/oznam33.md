@@ -4,13 +4,13 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 19. máj** | **18:30**\nNa úmysel | **Výročie posviacky farského kostola (2002),\nslávnosť** |
-| **Utorok, 20. máj** | **-** | **Utorok po 6. veľkonočnej nedeli** |
-| **Streda, 21. máj** | **18:30**\n+ Štefan | **Streda po 6. veľkonočnej nedeli\n(Večerná sv. omša je z nasledujúcej slávnosti.)** |
-| **Štvrtok, 22. máj** | **7:30**\nZa farnosť (29. 05. 2025)\n\n**9:00**\nPoďakovanie za spoločný život | **NANEBOVSTÚPENIE PÁNA,\nSLÁVNOSŤ** |
-| **Piatok, 23. máj** | **18:30**\n+ Jozef, Štefánia, Jaroslav, Mária,\n Ondrej, Mária, Milan, Terézia, Ján | **Piatok po 6. veľkonočnej nedeli** |
-| **Sobota, 24. máj** | **7:00**\nInt. ord. (10.) | **Sobota po 6. veľkonočnej nedeli** |
-| **Nedeľa, 25. máj** | **7:00**\n+ Jozef a Jozefína\n\n**10:00**\nZa farnosť (01. 06. 2025), osobitne\nza prvoprijímajúcich | **SIEDMA VEĽKONOČNÁ NEDEĽA** |
+| **Pondelok, 26. máj** | **18:30**\nNa úmysel | **Výročie posviacky farského kostola (2002),\nslávnosť** |
+| **Utorok, 27. máj** | **-** | **Utorok po 6. veľkonočnej nedeli** |
+| **Streda, 28. máj** | **18:30**\n+ Štefan | **Streda po 6. veľkonočnej nedeli\n(Večerná sv. omša je z nasledujúcej slávnosti.)** |
+| **Štvrtok, 29. máj** | **7:30**\nZa farnosť (29. 05. 2025)\n\n**18:30**\nPoďakovanie za spoločný život | **NANEBOVSTÚPENIE PÁNA,\nSLÁVNOSŤ** |
+| **Piatok, 30. máj** | **18:30**\n+ Jozef, Štefánia, Jaroslav, Mária,\n Ondrej, Mária, Milan, Terézia, Ján | **Piatok po 6. veľkonočnej nedeli** |
+| **Sobota, 31. máj** | **7:00**\nInt. ord. (10.) | **Sobota po 6. veľkonočnej nedeli** |
+| **Nedeľa, 1. jún** | **7:00**\n+ Jozef a Jozefína\n\n**10:00**\nZa farnosť (01. 06. 2025), osobitne\nza prvoprijímajúcich | **SIEDMA VEĽKONOČNÁ NEDEĽA** |
 
 
 Dnes sa po svätých omšiach koná zbierka na podporu katolíckych masmédií. Za vaše milodary vám vyslovujem úprimné Pán Boh zaplať. 
