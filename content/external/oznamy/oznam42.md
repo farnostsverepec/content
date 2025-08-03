@@ -8,9 +8,9 @@
 | **Utorok, 29. júl** | **18:30**\nZa zdravie a Božiu pomoc pre rodinu | **Sv. Marty, Márie a Lazára, spomienka** |
 | **Streda, 30. júl** | **18:30**\nZa opustené duše v očistci | **Bl. Zdenky Cecílie Schelingovej, panny a\nmučenice, ľubovoľná spomienka** |
 | **Štvrtok, 31. júl** | **7:30**\nInt. ord. (13.) | **Sv. Ignáca z Loyoly, kňaza, spomienka** |
-| **Piatok, 1. júl** | **18:30**\n+ Oľga, Anton, Anna, Vojtech,\nStanislav | **Sv. Alfonza Máriu de Liguori, biskupa a\nučiteľa Cirkvi, spomienka\n(prvý piatok v mesiaci)** |
-| **Sobota, 2. júl** | **-** | **Preblahoslavenej Panny Márie v sobotu,\nľubovoľná spomienka** |
-| **Nedeľa, 3. júl** | **7:00**\nPoďakovanie za 80 rokov života a\nprosba o ďalšiu Božiu pomoc\n\n**9:00**\nZa zdravie, šťastný pôrod a zdravé\ndieťatko | **OSEMNÁSTA NEDEĽA V CEZROČNOM OBDOBÍ** |
+| **Piatok, 1. august** | **18:30**\n+ Oľga, Anton, Anna, Vojtech,\nStanislav | **Sv. Alfonza Máriu de Liguori, biskupa a\nučiteľa Cirkvi, spomienka\n(prvý piatok v mesiaci)** |
+| **Sobota, 2. august** | **-** | **Preblahoslavenej Panny Márie v sobotu,\nľubovoľná spomienka** |
+| **Nedeľa, 3. august** | **7:00**\nPoďakovanie za 80 rokov života a\nprosba o ďalšiu Božiu pomoc\n\n**9:00**\nZa zdravie, šťastný pôrod a zdravé\ndieťatko | **OSEMNÁSTA NEDEĽA V CEZROČNOM OBDOBÍ** |
 
 
 Dnes slávime Svetový deň starých rodičov a seniorov. Oni sú pamäťou národa a pokladnicou životnej múdrosti. Prejavme im svoju lásku a pozornosť. Navštívme ich, zatelefonujme, porozprávajme sa, potešme ich nejakou maličkosťou a podobne. Tým, ktorí sú už vo večnosti, venujme modlitbu.
