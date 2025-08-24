@@ -1,4 +1,4 @@
-<!-- title: "Informácie o omšiach - 10. - 17. august" -->
+<!-- title: "Informácie o omšiach - 17. - 24. august" -->
 <!-- date: "2025-08-10" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
