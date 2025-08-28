@@ -6,8 +6,8 @@
 | :---: | :---: | :---: |
 | **Pondelok, 25. august** | **-** | **Pondelok 21. týždňa v Cezročnom období** |
 | **Utorok, 26. august** | **-** | **Utorok 21. týždňa v Cezročnom období** |
-| **Streda, 27. august** | **17:30**| **Sv. Moniky, spomienka** |
-| **Štvrtok, 28. august** | **-** | **Sv. Augustína, biskupa a učiteľa Cirkvi,\nspomienka** |
+| **Streda, 27. august** | **-**| **Sv. Moniky, spomienka** |
+| **Štvrtok, 28. august** | **17:30** | **Sv. Augustína, biskupa a učiteľa Cirkvi,\nspomienka** |
 | **Piatok, 29. august** | **-** | **Mučenícka smrť sv. Jána Krstiteľa,\nspomienka** |
 | **Sobota, 30. august** | **-** | **Sobota 21. týždňa v Cezročnom období** |
 | **Nedeľa, 31. august** | **7:00**\n+ Jozef a Sidónia\n\n**9:00**\nZa zdravie, Božiu pomoc a ochranu\npre rodinu Illovú | **DVADSIATA DRUHÁ NEDEĽA V CEZROČNOM OBDOBÍ** |
