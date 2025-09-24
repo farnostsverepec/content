@@ -6,7 +6,7 @@
 | :---: | :---: | :---: |
 | **Pondelok, 15. september** | **9:00**\n+Jozef | **SEDEMBOLESTNEJ PANNY MÁRIE,\nPATRÓNKY SLOVENSKA, SLÁVNOSŤ** |
 | **Utorok, 16. september** | **-** | **Sv. Kornela, pápeža, a Cypriána, biskupa,\nmučeníkov, spomienka** |
-| **Streda, 17. september** | **15:00**\n+ Štefánia Martišíková (pohrebná)í | **Streda 24. týždňa v Cezročnom období** |
+| **Streda, 17. september** | **15:00**\n+ Štefánia Martišíková (pohrebná) | **Streda 24. týždňa v Cezročnom období** |
 | **Štvrtok, 18. september** | **7:30**\nZa duše v očistci | **Štvrtok 24. týždňa v Cezročnom období** |
 | **Piatok, 19. september** | **18:30**\n+ Helena a Karol | **Piatok 24. týždňa v Cezročnom období\n(Omšový formulár: Na poďakovanie za úrodu)** |
 | **Sobota, 20. september** | **7:30**\nZa zdravie a Božiu pomoc pre Annu | **Sv. Andreja Kima Taegona, kňaza, Pavla\nChonga Hasanga a spoločníkov, mučeníkov,\nspomienka** |
