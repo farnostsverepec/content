@@ -4,12 +4,12 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 2. máj** | **-** | **Pondelok po 7. veľkonočnej nedeli** |
-| **Utorok, 3. máj** | **18.30**\n+ Jozef a Anna Knapo | **Sv. Karola Lwangu a spoločníkov, mučeníkov, spomienka** |
-| **Streda, 4. máj** | **18:30**\n+ Anna, Jozef, Anna, Štefan,\nŠtefánia, Dušan, Karolína, Pavel,\nJozefína, Pavol, Anna, Jozef | **Streda po 7. veľkonočnej nedeli** |
-| **Štvrtok, 5. máj** | **7:30**\nZa farnosť (20. 04. 2025) | **Sv. Bonifáca, biskupa a mučeníka,\nspomienka** |
-| **Piatok, 6. máj** | **18:30**\n+ Miroslav a Ľudmila | **Piatok po 7. veľkonočnej nedeli\n(prvý piatok v mesiaci)** |
-| **Sobota, 7. máj** | **7:30**\nInt. ord. (11.) | **Sobota po 7. veľkonočnej nedeli\n(Formulár sv. omše: Za povolania na\nkňazský stav)** |
+| **Pondelok, 2. jún** | **-** | **Pondelok po 7. veľkonočnej nedeli** |
+| **Utorok, 3. jún** | **18.30**\n+ Jozef a Anna Knapo | **Sv. Karola Lwangu a spoločníkov, mučeníkov, spomienka** |
+| **Streda, 4. jún** | **18:30**\n+ Anna, Jozef, Anna, Štefan,\nŠtefánia, Dušan, Karolína, Pavel,\nJozefína, Pavol, Anna, Jozef | **Streda po 7. veľkonočnej nedeli** |
+| **Štvrtok, 5. jún** | **7:30**\nZa farnosť (20. 04. 2025) | **Sv. Bonifáca, biskupa a mučeníka,\nspomienka** |
+| **Piatok, 6. jún** | **18:30**\n+ Miroslav a Ľudmila | **Piatok po 7. veľkonočnej nedeli\n(prvý piatok v mesiaci)** |
+| **Sobota, 7. jún** | **7:30**\nInt. ord. (11.) | **Sobota po 7. veľkonočnej nedeli\n(Formulár sv. omše: Za povolania na\nkňazský stav)** |
 | **Nedeľa, 8. jún** | **7:00**\n+ Viktor, Štefánia, Jaroslav\n\n**9:00**\nZa zdravie, Božiu pomoc a ochranu\npre synov, dcéry a vnúčatá | **ZOSLANIE DUCHA SVÄTÉHO,\nSLÁVNOSŤ** |
 
 
