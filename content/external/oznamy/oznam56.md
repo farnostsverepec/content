@@ -4,12 +4,12 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 3. október** | **-** | **Pondelok 31. týždňa v Cezročnom období** |
-| **Utorok, 4. október** | **17:30**\n+ kňazi Žilinskej diecézy | **Sv. Karola Boromejského, biskupa, spomienka** |
-| **Streda, 5. október** | **17:30**\n+ Janka | **Streda 31. týždňa v Cezročnom období** |
-| **Štvrtok, 6. október** | **7:30**\nInt. ord. (20.) | **Štvrtok 31. týždňa v Cezročnom období** |
-| **Piatok, 7. október** | **17:30**\nZa duše v očistci | **Piatok 31. týždňa v Cezročnom období\n(prvý piatok v mesiaci)** |
-| **Sobota, 8. november** | **7:00**\nZa zosnulých príbuzných a\ndobrodincov | **Preblahoslavenej Panny Márie v sobotu,\nľubovoľná spomienka** |
+| **Pondelok, 3. november** | **-** | **Pondelok 31. týždňa v Cezročnom období** |
+| **Utorok, 4. november** | **17:30**\n+ kňazi Žilinskej diecézy | **Sv. Karola Boromejského, biskupa, spomienka** |
+| **Streda, 5. november** | **17:30**\n+ Janka | **Streda 31. týždňa v Cezročnom období** |
+| **Štvrtok, 6. november** | **7:30**\nInt. ord. (20.) | **Štvrtok 31. týždňa v Cezročnom období** |
+| **Piatok, 7. november** | **17:30**\nZa duše v očistci | **Piatok 31. týždňa v Cezročnom období\n(prvý piatok v mesiaci)** |
+| **Sobota, 8. november** | **7:30**\nZa zosnulých príbuzných a\ndobrodincov | **Preblahoslavenej Panny Márie v sobotu,\nľubovoľná spomienka** |
 | **Nedeľa, 9. november** | **7:00**\n+ Štefan, Juraj, Stanislav, Jozef,\nAnna, Helena\n\n**9:00**\n+ Rudolf, Štefánia, Ladislav | **TRIDSIATA DRUHÁ NEDEĽA V\nCEZROČNOM OBDOBÍ\n\nVÝROČIE POSVIACKY LATERÁNSKEJ BAZILIKY** |
 
 
