@@ -1,4 +1,4 @@
-<!-- title: "Informácie o omšiach - 30. - 7. december" -->
+<!-- title: "Informácie o omšiach - 30. - 07. december" -->
 <!-- date: "2025-11-30" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
