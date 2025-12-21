@@ -1,8 +1,8 @@
 // formát: Deň, čiarkou oddelený čas, čiarkou oddelený čas, ...
-Pondelok
-Utorok, 13:00
-Streda, 7:30
-Štvrtok, 7:30
-Piatok, 17:30
-Sobota, 6:00
+Pondelok, 7:30
+Utorok
+Streda
+Štvrtok, 0:00, 7:00, 9:00
+Piatok, 7:00, 9:00
+Sobota
 Nedeľa, 7:00, 9:00
