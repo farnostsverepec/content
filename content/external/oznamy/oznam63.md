@@ -9,7 +9,7 @@
 | **Streda, 24. december** | **-** | **Streda po 4. adventnej nedeli** |
 | **Štvrtok, 25. december** | **0:00**\nZa dobrodincov farnosti\n\n**7:00**\nZa farnosť (25. 12. 2025)\n\n**9:00**\n+ Stanislav Ďurovec | **NARODENIE PÁNA, SLÁVNOSŤ** |
 | **Piatok, 26. december** | **7:00**\n+ Štefan Čierny, kňaz\n\n**9:00**\nŠtefan, Viktória, Pavol | **SV. ŠTEFANA, PRVÉHO MUČENÍKA,\nSVIATOK** |
-| **Sobota, 27. december** | **-** | **Sv. Jána, apoštola a evanjelistu, sviatok** |
+| **Sobota, 27. december** | **7:30** | **Sv. Jána, apoštola a evanjelistu, sviatok** |
 | **Nedeľa, 28. december** | **7:00**\n+ Miroslav, Marta, Ján\n\n**9:00**\n+ Ján Hoždora | **SVÄTEJ RODINY JEŽIŠA, MÁRIE A\nJOZEFA, SVIATOK** |
 
 
