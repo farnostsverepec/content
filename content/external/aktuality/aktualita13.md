@@ -1,0 +1,11 @@
+<!-- title: "Farské oznamy: Slávnosť narodenia Pána" -->
+<!-- date: "2025-12-25" -->
+
+
+Dnes napoludnie Svätý Otec Lev XIV. prednesie svoje vianočné posolstvo a udelí  svoje apoštolské požehnanie mestu Rím a celému svetu. Spojme sa s ním aj prostredníctvom katolíckych médií (TV LUX, rádio LUMEN...).
+Popoludní o 15.00 hod. vás pozývame na modlitbu Korunky k Božiemu milosrdenstvu spojenú s osobitným požehnaním pri Betleheme. 
+Zajtra na sviatok svätého Štefana budú sväté omše ráno o 7.00 hod. a o 9.00 hod. Táto svätá omša bude slúžená za účasti koledníkov. Budú nás ňou sprevádzať ľudové piesne v podaní zloženého zboru spevákov a ľudovej hudby Veselie pod vedením Terezky Jurdíkovej. Na záver svätej omše nám deti z našej farnosti prednesú vianočné a novoročné vinše. Srdečne vás všetkých pozývame. Kto bude mať záujem podporiť Dobrú novinu, svoje milodary budete môcť odovzdať do pripravených pokladničiek. 
+Kto chce, môžete si na zajtrajšie sväté omše priniesť medovníčky, ktoré ste si vybrali na začiatku adventného obdobia. Vložte ich do pripraveného košíka v zadnej časti kostola. Pri svätej omši ich ponesieme v obetnom sprievode ako symbol nášho adventného snaženia a prípravy na príchod Pána.  
+Takisto zajtra, na sviatok sv. Štefana, sa vo Farskom kostole Navštívenia Panny Márie v Považskej Bystrici o 15.30 hod. uskutoční vianočný koncert sopranistky Márie Porubčinovej a jej pozvaných hostí. Srdečne nás naň pozýva. Bližšie informácie nájdete na nástenke.
+Hoci nebola vyhlásená, svätá omša bude aj v sobotu ráno o 7.30 hod. Je to sviatok svätého Jána, apoštola a evanjelistu. Podľa starobylej tradície sa v tento deň požehnáva víno. Urobíme tak aj pri svätej omši. 
+V nedeľu budeme sláviť sviatok Svätej rodiny Ježiša, Márie a Jozefa. Pri svätých omšiach požehnáme naše rodiny a manželia si budú môcť obnoviť svoj manželský súhlas. Osobitne pozývame mladé manželské páry či mladé rodiny s deťmi. Po svätej omši ste pozvaní na malé spoločné stretnutie pri káve. Ak budete aj s deťmi, o tie sa vám v čase stretnutia postarajú naši animátori. Ak by niekto uznal za vhodné, môže priniesť zopár koláčikov na občerstvenie. 
