@@ -4,13 +4,13 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 29. december** | **7:30**\nInt. ord. (2.) | **Pondelok vo Vianočnom období** |
-| **Utorok, 30. december** | **7:00**\n+ Antónia, Peter, Matúš, Mária,\nPavol, Mária, Miroslav, Božena\n\n**9:00**\nZa farnosť (06. 01. 2026) | **ZJAVENIE PÁNA, SLÁVNOSŤ** |
-| **Streda, 31. december** | **-** | **Streda vo Vianočnom období** |
-| **Štvrtok, 1. január** | **-** | **Štvrtok vo Vianočnom období** |
-| **Piatok, 2. január** | **17:30**\n+ Margita Ridošková | **Piatok vo Vianočnom období** |
-| **Sobota, 3. január** | **7:30**\nZa farnosť (11. 01. 2026) | **Sobota vo Vianočnom období** |
-| **Nedeľa, 4. január** | **7:00**\n+ František, Zdenka a starí rodičia\n\n**9:00**\n+ Anežka a Vojtech | **TRETIA NEDEĽA PO NARODENÍ PÁNA\nKRST PÁNA, SVIATOK** |
+| **Pondelok, 5. január** | **7:30**\nInt. ord. (2.) | **Pondelok vo Vianočnom období** |
+| **Utorok, 6. január** | **7:00**\n+ Antónia, Peter, Matúš, Mária,\nPavol, Mária, Miroslav, Božena\n\n**9:00**\nZa farnosť (06. 01. 2026) | **ZJAVENIE PÁNA, SLÁVNOSŤ** |
+| **Streda, 7. január** | **-** | **Streda vo Vianočnom období** |
+| **Štvrtok, 8. január** | **-** | **Štvrtok vo Vianočnom období** |
+| **Piatok, 9. január** | **17:30**\n+ Margita Ridošková | **Piatok vo Vianočnom období** |
+| **Sobota, 10. január** | **7:30**\nZa farnosť (11. 01. 2026) | **Sobota vo Vianočnom období** |
+| **Nedeľa, 11. január** | **7:00**\n+ František, Zdenka a starí rodičia\n\n**9:00**\n+ Anežka a Vojtech | **TRETIA NEDEĽA PO NARODENÍ PÁNA\nKRST PÁNA, SVIATOK** |
 
 
 
