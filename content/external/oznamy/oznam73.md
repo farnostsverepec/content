@@ -7,7 +7,7 @@
 | **Pondelok, 23. február** | **-** | **Pondelok po 1. pôstnej nedeli** |
 | **Utorok, 24. február** | **-** | **Utorok po 1. pôstnej nedeli** |
 | **Streda, 25. február** | **17:30**\n+ Viktor | **Streda po 1. pôstnej nedeli** |
-| **Štvrtok, 26. február** | **7:30**\nZa farnosť (15. 02. 2026)| **Štvrtok po 1. pôstnej nedeli** |
+| **Štvrtok, 26. február** | **7:30**\nZa farnosť (15. 02. 2026) | **Štvrtok po 1. pôstnej nedeli** |
 | **Piatok, 27. február** | **17:00**\n+ Jozef Dušík | **Piatok po 1. pôstnej nedeli** |
 | **Sobota, 28. február** | **7:30**\nInt. ord. (6.) | **Sobota po 1. pôstnej nedeli** |
 | **Nedeľa, 1. marec** | **7:00**\n+ Ondrej, Štefánia, Štefan, Berta\n\n**9:00**\n+ Roman a Ľubomíra | **DRUHÁ PÔSTNA NEDEĽA** |
