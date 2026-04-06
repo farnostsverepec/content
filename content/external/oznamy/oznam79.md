@@ -16,63 +16,6 @@
 
 
 
-Deň
-Čas svätej omše
-Liturgické slávenie
-
-
-Pondelok
-06. apríl
-9.00
-+ Ivan, Alojz, Anna
-PONDELOK VO VEĽKONOČNEJ OKTÁVE
-
-
-Utorok  
-07. apríl
--
-UTOROK VO VEĽKONOČNEJ OKTÁVE
-
-
-Streda
-08. apríl
-18.30
-+ Jaroslav, Pavel, Vincent, Mária
-STREDA VO VEĽKONOČNEJ OKTÁVE
-
-
-Štvrtok
-09. apríl
-7.30
-Na úmysel darcu
-ŠTVRTOK VO VEĽKONOČNEJ OKTÁVE
-
-
-Piatok
-10. apríl
-18.30
-+ Helena
-PIATOK VO VEĽKONOČNEJ OKTÁVE
-
-
-Sobota
-11. apríl
-7.30
-Poďakovanie za 70 rokov života a za zdravie a Božiu pomoc
-SOBOTA VO VEĽKONOČNEJ OKTÁVE
-
-
-Nedeľa
-12. apríl
-7.00
-+ Anna a Jozef
-9.00
-+ Štefan, Štefánia, Miroslav
-DRUHÁ VEĽKONOČNÁ NEDEĽA NEDEĽA BOŽIEHO MILOSRDENSTVA
-
-
-
-
 Slávime teda najväčší a najvýznamnejší kresťanský sviatok – Veľkú noc. Od dnešného dňa sa až do slávnosti Zoslania Ducha Svätého modlíme namiesto modlitby *Anjel Pána* modlitbu *Raduj sa, nebies kráľovná*. Po sv. omšiach sa koná výročná zbierka. Za vaše milodary vám vyslovujem úprimné Pán Boh zaplať. 
 Dnes po svätej omši, ktorá bude o 9.00 hod., uskutočníme krátku procesiu na oslavu zmŕtvychvstalého Pána v okolí kostola. 
 Zajtra máme Veľkonočný pondelok. Svätá omša bude o 9.00 hod. Počas celého týždňa až do nedele prežívame tzv. Veľkonočnú oktávu, teda osem dní slávených ako jeden sviatok Veľkej noci. 
