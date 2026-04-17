@@ -4,13 +4,13 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 6. apríl** | **-** | **Pondelok po 2. veľkonočnej nedeli** |
-| **Utorok, 7. apríl** | **18:30**\n+ Rudolf, Štefan, Ján, Jozef,\nMiroslav | **Utorok po 2. veľkonočnej nedeli** |
-| **Streda, 8. apríl** | **18:30**\n+ Marián a Juraj | **Streda po 2. veľkonočnej nedeli** |
-| **Štvrtok, 9. apríl** | **7:30**\nInt. ord. (9.) | **Štvrtok po 2. veľkonočnej nedeli** |
-| **Piatok, 10. apríl** | **18:30**\n+ Pavol a Helena | **Piatok po 2. veľkonočnej nedeli** |
-| **Sobota, 11. apríl** | **15:00 (sobášna)**\nZa novomanželov | **Sobota po 2. veľkonočnej nedeli** |
-| **Nedeľa, 12. apríl** | **7:00**\n+ rod. Lazová – Štefan, Alžbeta,\nAlojz, Anna, Tonka, Pavol, Ján,\nMária\n\n**9:00**\n+ rod. Dolinková a Rosinová | **TRETIA VEĽKONOČNÁ NEDEĽA** |
+| **Pondelok, 13. apríl** | **-** | **Pondelok po 2. veľkonočnej nedeli** |
+| **Utorok, 14. apríl** | **18:30**\n+ Rudolf, Štefan, Ján, Jozef,\nMiroslav | **Utorok po 2. veľkonočnej nedeli** |
+| **Streda, 15. apríl** | **18:30**\n+ Marián a Juraj | **Streda po 2. veľkonočnej nedeli** |
+| **Štvrtok, 16. apríl** | **7:30**\nInt. ord. (9.) | **Štvrtok po 2. veľkonočnej nedeli** |
+| **Piatok, 17. apríl** | **18:30**\n+ Pavol a Helena | **Piatok po 2. veľkonočnej nedeli** |
+| **Sobota, 18. apríl** | **15:00 (sobášna)**\nZa novomanželov | **Sobota po 2. veľkonočnej nedeli** |
+| **Nedeľa, 19. apríl** | **7:00**\n+ rod. Lazová – Štefan, Alžbeta,\nAlojz, Anna, Tonka, Pavol, Ján,\nMária\n\n**9:00**\n+ rod. Dolinková a Rosinová | **TRETIA VEĽKONOČNÁ NEDEĽA** |
 
 
 
