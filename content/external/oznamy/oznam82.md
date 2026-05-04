@@ -1,4 +1,4 @@
-<!-- title: "Informácie o omšiach - 26. - 3. máj" -->
+<!-- title: "Informácie o omšiach - 26. - 03. máj" -->
 <!-- date: "2025-04-26" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
