@@ -16,33 +16,10 @@
 
 
 
-Zbierka na katolícke masmédiá, ktorá sa konala minulú nedeľu, vyniesla 228,10
-EUR. Za vaše milodary vám vyslovujem úprimné Pán Boh zaplať.
-Dnešným dňom končíme prežívanie Veľkonočného obdobia. Od zajtra nám
-začína obdobie Cez rok. Namiesto modlitby Raduj sa, nebies Kráľovná sa
-modlíme modlitbu Anjel Pána.
-V našej krajine býva zvykom sláviť aj Svätodušný pondelok. Z rozhodnutia
-Svätého Otca Františka je tento deň už niekoľko rokov zároveň spomienkou
-Panny Márie, Matky Cirkvi. Svätá omša v pondelok bude o 18.30 hod.
-V utorok si pripomenieme 24. výročie konsekrácie (posvätenia) nášho farského
-kostola. Svätá omša pri tejto príležitosti bude o 18.30 hod. Príďme vyjadriť
-Pánovi poďakovanie za dar tohto chrámu i za tých, vďaka ktorým tento chrám
-máme.
+Zbierka na katolícke masmédiá, ktorá sa konala minulú nedeľu, vyniesla 228,10 EUR. Za vaše milodary vám vyslovujem úprimné Pán Boh zaplať. Dnešným dňom končíme prežívanie Veľkonočného obdobia. Od zajtra nám začína obdobie Cez rok. Namiesto modlitby Raduj sa, nebies Kráľovná sa modlíme modlitbu Anjel Pána.
+V našej krajine býva zvykom sláviť aj Svätodušný pondelok. Z rozhodnutia Svätého Otca Františka je tento deň už niekoľko rokov zároveň spomienkou Panny Márie, Matky Cirkvi. Svätá omša v pondelok bude o 18.30 hod. V utorok si pripomenieme 24. výročie konsekrácie (posvätenia) nášho farského kostola. Svätá omša pri tejto príležitosti bude o 18.30 hod. Príďme vyjadriť Pánovi poďakovanie za dar tohto chrámu i za tých, vďaka ktorým tento chrám máme.
 Vo štvrtok svätá omša nebude.
-Všetky deti srdečne pozývame na eRko stretnutie, ktoré sa uskutoční v piatok
-29. mája o 17.00 hod. na fare. Tešia sa na vás vaši animátori.
-Budúca nedeľa je Slávnosť Najsvätejšej Trojice. Oslávime tak aj titul nášho
-farského kostola, čiže farské hody. Po svätých omšiach bude hodová zbierka.
-Chcel by som tiež poprosiť ochotných farníkov, ktorí by mohli na nedeľu
-pripraviť sladké či slané dobroty, aby sme si po svätej omši mohli urobiť malé
-pohostenie.
-Oznamujeme, že sviatosť manželstva chcú prijať: Jozef Dušík, pochádzajúci
-z farnosti Predmier a bývajúci v našej farnosti a Mária Lazová, pochádzajúca z
-našej farnosti. Taktiež Zdeněk Benda pochádzajúci z farnosti Adamovské
-Kochanovce a Kristína Lazová, pochádzajúca z našej farnosti. Kto by vedel
-o nejakej prekážke, ktorá by bránila uzavretiu manželstva, nech to oznámi na
-farskom úrade. Zároveň snúbencov odporúčame do vašich modlitieb, aby
-vytvorili príkladné kresťanské rodiny.
-Chcem vyjadriť srdečné poďakovanie skupinke, ktorá nám v uplynulom týždni
-poupratovala kostol a prispela na jeho potreby. V tomto týždni poprosíme
-o upratovanie skupinu č. 20.
+Všetky deti srdečne pozývame na eRko stretnutie, ktoré sa uskutoční v piatok 29. mája o 17.00 hod. na fare. Tešia sa na vás vaši animátori.
+Budúca nedeľa je Slávnosť Najsvätejšej Trojice. Oslávime tak aj titul nášho farského kostola, čiže farské hody. Po svätých omšiach bude hodová zbierka. Chcel by som tiež poprosiť ochotných farníkov, ktorí by mohli na nedeľu pripraviť sladké či slané dobroty, aby sme si po svätej omši mohli urobiť malé pohostenie.
+Oznamujeme, že sviatosť manželstva chcú prijať: Jozef Dušík, pochádzajúci z farnosti Predmier a bývajúci v našej farnosti a Mária Lazová, pochádzajúca z našej farnosti. Taktiež Zdeněk Benda pochádzajúci z farnosti Adamovské Kochanovce a Kristína Lazová, pochádzajúca z našej farnosti. Kto by vedel o nejakej prekážke, ktorá by bránila uzavretiu manželstva, nech to oznámi na farskom úrade. Zároveň snúbencov odporúčame do vašich modlitieb, aby vytvorili príkladné kresťanské rodiny.
+Chcem vyjadriť srdečné poďakovanie skupinke, ktorá nám v uplynulom týždni poupratovala kostol a prispela na jeho potreby. V tomto týždni poprosíme o upratovanie skupinu č. 20.
