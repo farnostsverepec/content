@@ -1,5 +1,5 @@
 <!-- title: "Informácie o omšiach - 19. - 26. apríl" -->
-<!-- date: "2025-04-19" -->
+<!-- date: "2026-04-19" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |

@@ -1,5 +1,5 @@
 <!-- title: "Informácie o omšiach - 17. - 24. máj" -->
-<!-- date: "2025-05-17" -->
+<!-- date: "2026-05-17" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |

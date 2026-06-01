@@ -1,5 +1,5 @@
 <!-- title: "Informácie o omšiach - 26. - 03. máj" -->
-<!-- date: "2025-04-26" -->
+<!-- date: "2026-04-26" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
