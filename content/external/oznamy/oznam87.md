@@ -1,16 +1,16 @@
-<!-- title: "Informácie o omšiach - 30. - 6. jún" -->
+<!-- title: "Informácie o omšiach - 30. - 7. jún" -->
 <!-- date: "2026-05-31" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 1. máj** | **-**\n+ František Grbal | **Sv. Justína, mučeníka, spomienka** |
-| **Utorok, 2. máj** | **18:30**\n+ Katarína, Eliáš, Mária, Pavol | **Utorok 9. týždňa v Cezročnom období** |
-| **Streda, 3. máj** | **18:30**\n+ Agnesa a Emil Ondráš a rodičia | **Sv. Karola Lwangu a spoločníkov\nmučeníkov, spomienka\n(Večerná svätá omša je z nasledujúcej slávnosti.)** |
-| **Štvrtok, 4. máj** | **7:30**\nZa farnosť (04. 06. 2026)\n\n**18:30**\n+ Jaroslav a Mária | **NAJSVÄTEJŠIEHO KRISTOVHO TELA\nA KRVI, SLÁVNOSŤ\n(prikázaný sviatok)** |
-| **Piatok, 5. máj** | **18:30**\n+ Janka | **Sv. Bonifáca, biskupa a mučeníka,\nspomienka\n(prvý piatok v mesiaci)** |
-| **Sobota, 6. máj** | **15:30 (sobášna)**\nZa novomanželov | **Sobota 9. týždňa v Cezročnom období** |
-| **Nedeľa, 7. máj** | **7:00**\n+ Viktor, Jaroslav, Štefánia\n\n**9:00**\nEmanuel a Anna | **DESIATA NEDEĽA V CEZROČNOM OBDOBÍ** |
+| **Pondelok, 1. jún** | **-**\n+ František Grbal | **Sv. Justína, mučeníka, spomienka** |
+| **Utorok, 2. jún** | **18:30**\n+ Katarína, Eliáš, Mária, Pavol | **Utorok 9. týždňa v Cezročnom období** |
+| **Streda, 3. jún** | **18:30**\n+ Agnesa a Emil Ondráš a rodičia | **Sv. Karola Lwangu a spoločníkov\nmučeníkov, spomienka\n(Večerná svätá omša je z nasledujúcej slávnosti.)** |
+| **Štvrtok, 4. jún** | **7:30**\nZa farnosť (04. 06. 2026)\n\n**18:30**\n+ Jaroslav a Mária | **NAJSVÄTEJŠIEHO KRISTOVHO TELA\nA KRVI, SLÁVNOSŤ\n(prikázaný sviatok)** |
+| **Piatok, 5. jún** | **18:30**\n+ Janka | **Sv. Bonifáca, biskupa a mučeníka,\nspomienka\n(prvý piatok v mesiaci)** |
+| **Sobota, 6. jún** | **15:30 (sobášna)**\nZa novomanželov | **Sobota 9. týždňa v Cezročnom období** |
+| **Nedeľa, 7. jún** | **7:00**\n+ Viktor, Jaroslav, Štefánia\n\n**9:00**\nEmanuel a Anna | **DESIATA NEDEĽA V CEZROČNOM OBDOBÍ** |
 
 
 
