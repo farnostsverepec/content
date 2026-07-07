@@ -1,16 +1,16 @@
-<!-- title: "Informácie o omšiach - 03. - 12. júl" -->
-<!-- date: "2026-07-03" -->
+<!-- title: "Informácie o omšiach - 05. - 12. júl" -->
+<!-- date: "2026-07-05" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 29. jún** | **-** | **Pondelok 14. týždňa v Cezročnom období** |
-| **Utorok, 30. jún** | **18:30**\n+ Katarína a Ondrej Uríček | **Utorok 14. týždňa v Cezročnom období** |
-| **Streda, 1. júl** | **18:30**\n+ Anna a Jozef Knapo | **Streda 14. týždňa v Cezročnom období** |
-| **Štvrtok, 2. júl** | **7:30**\nInt. ord. (18.) | **Štvrtok 14. týždňa v Cezročnom období** |
-| **Piatok, 3. júl** | **18:30**\n+ Anna a Eva | **Piatok 14. týždňa v Cezročnom období** |
-| **Sobota, 4. júl** | **18:30**\n+ Marta, Rudolf, Emil, František\n(pôvodne 12. 07. – 7.00 hod.) | **Sv. Benedikta, opáta, patróna Európy,\nsviatok\n(Večerná omša je z nasledujúcej nedele.)** |
-| **Nedeľa, 5. júl** | **8:00**\nZa zdravie, Božiu pomoc a ochranu\npre vnukov, vnučky a ich rodičov\n(pôvodne 12. 07. – 9.00 hod.) | **PÄTNÁSTA NEDEĽA V CEZROČNOM OBDOBÍ** |
+| **Pondelok, 6. júl** | **-** | **Pondelok 14. týždňa v Cezročnom období** |
+| **Utorok, 7. júl** | **18:30**\n+ Katarína a Ondrej Uríček | **Utorok 14. týždňa v Cezročnom období** |
+| **Streda, 8. júl** | **18:30**\n+ Anna a Jozef Knapo | **Streda 14. týždňa v Cezročnom období** |
+| **Štvrtok, 9. júl** | **7:30**\nInt. ord. (18.) | **Štvrtok 14. týždňa v Cezročnom období** |
+| **Piatok, 10. júl** | **18:30**\n+ Anna a Eva | **Piatok 14. týždňa v Cezročnom období** |
+| **Sobota, 11. júl** | **18:30**\n+ Marta, Rudolf, Emil, František\n(pôvodne 12. 07. – 7.00 hod.) | **Sv. Benedikta, opáta, patróna Európy,\nsviatok\n(Večerná omša je z nasledujúcej nedele.)** |
+| **Nedeľa, 12. júl** | **8:00**\nZa zdravie, Božiu pomoc a ochranu\npre vnukov, vnučky a ich rodičov\n(pôvodne 12. 07. – 9.00 hod.) | **PÄTNÁSTA NEDEĽA V CEZROČNOM OBDOBÍ** |
 
 
 
