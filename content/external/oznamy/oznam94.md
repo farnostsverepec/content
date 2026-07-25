@@ -19,4 +19,3 @@
 Žilinská diecéza a Farnosť Lednické Rovne srdečne pozývajú všetkých veriacich na 17. ročník diecéznej púte ku kaplnke sv. Anny, ktorá sa uskutoční v dňoch 25. a 26. júla 2026. Púť je organizovaná pri príležitosti Svetového dňa starých rodičov a seniorov. Program púte a ostatné informácie nájdete na nástenke. Svetový deň starých rodičov a seniorov budeme sláviť na budúcu nedeľu.
 Prosím birmovancov, ktorí mi ešte neoznámili svoje birmovné meno a meno birmovného rodiča, aby tak urobili čo najskôr. Taktiež birmovanci, ktorí boli pokrstení mimo farnosti Sverepec a Visolaje, nech si vyžiadajú krstný list z farnosti, v ktorej boli pokrstení.
 Srdečné poďakovanie patrí skupinke, ktorá nám v uplynulom týždni poupratovala kostol a prispela na jeho potreby. V tomto týždni poprosíme o upratovanie skupinu č. 1.
-
