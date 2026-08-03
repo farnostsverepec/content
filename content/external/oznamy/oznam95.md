@@ -4,7 +4,7 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 27. júl** | **-** | **Pondelok 16. týždňa v Cezročnom období** |
+| **Pondelok, 27. júl** | **-** | **Pondelok 17. týždňa v Cezročnom období** |
 | **Utorok, 28. júl** | **-** | **Sv. Marty, Márie a Lazára, spomienka** |
 | **Streda, 29. júl** | **18:30**\n+ rodičia, súrodenci a syn | **Sv. Márie Magdalény, sviatok** |
 | **Štvrtok, 30. júl** | **-** | **Bl. Zdenky Cecílie Schellingovej, panny\na mučenice, ľubovoľná spomienka** |
