@@ -10,7 +10,7 @@
 | **Štvrtok, 27. august** | **-** | **Sv. Moniky, spomienka** |
 | **Piatok, 28. august** | **-** | **Sv. Augustína, biskupa a učiteľa Cirkvi,\nspomienka** |
 | **Sobota, 29. august** | **18:30**\nZa farnosť (30. 08. 2026) | **Mučenícka smrť svätého Jána Krstiteľa,\nspomienka\n(Večerná omša je z nasledujúcej nedele.)** |
-| **Nedeľa, 30. august** | **8:00**\n+ Mária, František, Rudolf a ich\nrodičia\n(pôvodne 30. 08. – 9.00 hod.) | **DVADSIATA PRVÁ NEDEĽA V CEZROČNOM OBDOBÍ** |
+| **Nedeľa, 30. august** | **8:00**\n+ Mária, František, Rudolf a ich\nrodičia\n(pôvodne 30. 08. – 9.00 hod.) | **DVADSIATA DRUHÁ NEDEĽA V CEZROČNOM OBDOBÍ** |
 
 
 
