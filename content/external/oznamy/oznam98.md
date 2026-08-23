@@ -1,5 +1,5 @@
-<!-- title: "Informácie o omšiach - 02. - 09. august" -->
-<!-- date: "2026-08-02" -->
+<!-- title: "Informácie o omšiach - 16. - 23. august" -->
+<!-- date: "2026-08-16" -->
 
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
