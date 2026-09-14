@@ -4,7 +4,7 @@
 <!-- table-setup wrapStyle=row; wrapOn=max-width:767px; wrapHideHeader=true -->
 | Deň | Čas svätej omše | Liturgické slávenie |
 | :---: | :---: | :---: |
-| **Pondelok, 7. august** | **-** | **Sv. Marka Križina, Melichara\nGrodzieckeho a Štefana Pongrácza, kňazov,\nmučeníkov, spomienka** |
+| **Pondelok, 7. september** | **-** | **Sv. Marka Križina, Melichara\nGrodzieckeho a Štefana Pongrácza, kňazov,\nmučeníkov, spomienka** |
 | **Utorok, 8. september** | **18:30**\n+ Štefánia a Emanuel | **Narodenie Preblahoslavenej Panny Márie,\nsviatok** |
 | **Streda, 9. september** | **18:30**\nZa zdravie a Božiu pomoc | **Streda 23. týždňa v Cezročnom období** |
 | **Štvrtok, 10. september** | **7:30**\nZa šťastný pôrod | **Štvrtok 23. týždňa v Cezročnom období** |

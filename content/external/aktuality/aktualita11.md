@@ -1,4 +1,4 @@
 <!-- title: "Pozvánka na eRko" -->
-<!-- date: "2026-06-12" -->
+<!-- date: "2026-09-18" -->
 
-![pdf](/content/erkoinvite.pdf)
+![jpg](/content/erko.jpg)
